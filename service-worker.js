@@ -6,8 +6,6 @@ var cacheFiles = [
 	'./',
 	'./index.html',
 	'./js/app.js',
-	'./css/reset.css',
-	'./css/style.css',
 	'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic'
 ]
 
