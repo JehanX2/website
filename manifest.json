@@ -22,7 +22,7 @@
   "related_applications": [
     {
       "platform": "play",
-      "id": "ca.station.user1.stationca"
+      "id": "ca.register.ca.registerca"
     }
   ],
   "start_url": "index.html",
