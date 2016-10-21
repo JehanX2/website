@@ -22,7 +22,7 @@
   "related_applications": [
     {
       "platform": "play",
-      "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
+      "id": "com.google.samples.apps.iosched"
     }
   ],
   "start_url": "index.html",
