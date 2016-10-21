@@ -22,7 +22,7 @@
   "related_applications": [
     {
       "platform": "play",
-      "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
+      "id": "ca.register.ca.registerca"
     }
   ],
   "start_url": "index.html",
