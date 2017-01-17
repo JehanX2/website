@@ -1,7 +1,6 @@
 {
   "name": "Iran Banner",
   "short_name": "Iran Banner",
-  "prefer_related_applications": true,
   "icons": [
     {
       "src": "launcher-icon-2x.png",
@@ -19,10 +18,11 @@
       "type": "image/png"
     }
   ],
+  "prefer_related_applications": true,
   "related_applications": [
     {
       "platform": "play",
-      "id": "ca.register.user1.registerca"
+      "id": "ca.idea.user1.ideaca"
     }
   ],
   "start_url": "index.html",
