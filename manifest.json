@@ -22,7 +22,7 @@
   "related_applications": [
     {
       "platform": "play",
-      "id": "ca.iran.user1.iranca"
+      "id": "ca.register.user1.registerca"
     }
   ],
   "start_url": "index.html",
