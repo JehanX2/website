@@ -8,5 +8,6 @@
       "id": "ca.iran.user1.iranca"
     }
   ],
+  "start_url": "index.html",
   "display": "standalone"
 }
